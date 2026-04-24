@@ -1,1 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
 
+[project]
+name = "SM-Notepad"
+version = "0.1.0"
+description = "A simple Notepad app"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [
+    {name = "Brandon Chew", email = "chewbrandon9911@gmail.com"}
+]
+dependencies = []
+
+[project.scripts]
+SM-Notepad = "SM-Notepad:run"
