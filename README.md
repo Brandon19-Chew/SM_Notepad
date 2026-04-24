@@ -12,4 +12,4 @@ A simple Notepad application written in Python using Tkinter.
 
 ## Install
 ```bash
-pip install pynotepad
+pip install SM-Notepad
