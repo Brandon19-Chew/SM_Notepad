@@ -1,0 +1,2 @@
+# SM-Notepad
+Currently thinking 
