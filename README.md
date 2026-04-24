@@ -1,7 +1,5 @@
 # SM-Notepad
 
-# PyNotepad
-
 A simple Notepad application written in Python using Tkinter.
 
 ## Features
