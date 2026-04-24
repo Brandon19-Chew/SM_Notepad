@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sm-notepad"
-version = "0.2.0"
+version = "0.2.1"
 description = "A simple Notepad app"
 readme = "README.md"
 license = {text = "MIT"}
