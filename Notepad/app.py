@@ -3,7 +3,7 @@ from tkinter import filedialog, messagebox
 
 def run():
     root = tk.Tk()
-    root.title("SM-Notepad")
+    root.title("SM_Notepad")
     root.geometry("800x500")
 
     text_area = tk.Text(root, undo=True, wrap="word")
