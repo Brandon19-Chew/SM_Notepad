@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "SM-Notepad"
+name = "sm-notepad"
 version = "0.1.0"
 description = "A simple Notepad app"
 readme = "README.md"
