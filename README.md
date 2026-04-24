@@ -108,6 +108,6 @@ Canvas-based icon button system with hover effects
 
 ## Install Guide
 ```bash
-pip install SM-Notepad
+pip install sm-notepad
 
 SM_Notepad 
