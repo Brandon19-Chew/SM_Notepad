@@ -14,4 +14,4 @@ authors = [
 dependencies = []
 
 [project.scripts]
-SM-Notepad = "SM-Notepad:run"
+SM_Notepad = "SM_Notepad:run"
